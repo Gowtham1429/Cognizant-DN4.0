@@ -1,1 +1,1 @@
-# Cognizant-DN4.0-SQL
+# Cognizant-DN4.0
